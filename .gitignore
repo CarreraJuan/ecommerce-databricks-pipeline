@@ -1,0 +1,17 @@
+# Entornos virtuales de Python
+.venv/
+env/
+venv/
+
+# Archivos temporales y caches de Python
+__pycache__/
+*.pyc
+
+# Archivos de configuración de Databricks y VS Code
+.databricks/
+.vscode/
+
+# Datos locales o secrets
+*.env
+*.csv
+*.json
